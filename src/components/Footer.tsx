@@ -20,12 +20,12 @@ export default function Footer() {
             <ul className="space-y-2 text-sm text-primary-foreground/60">
               <li>
                 <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer" className="hover:text-secondary transition-colors">
-                  WhatsApp: 0812-8725-0795
+                  WhatsApp: 0858-9927-4443
                 </a>
               </li>
               <li>
                 <a href={EMAIL_URL} className="hover:text-secondary transition-colors">
-                  boluketanjatiwangi@gmail.com
+                  boluketankejulumer.official@gmail.com
                 </a>
               </li>
             </ul>

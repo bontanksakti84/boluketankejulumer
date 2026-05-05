@@ -12,7 +12,7 @@ export const faqItems: FAQItem[] = [
   {
     question: "Bagaimana cara daftar franchise Ichi Bread?",
     answer:
-      "Hubungi kami via WhatsApp di 0812-8725-0795 atau email boluketanjatiwangi@gmail.com. Tersedia paket franchise mulai dari Paket Hemat, Paket Bisnis, hingga Paket Premium.",
+      "Hubungi kami via WhatsApp di 0858-9927-4443 atau email boluketankejulumer.official@gmail.com. Tersedia paket franchise mulai dari Paket Hemat, Paket Bisnis, hingga Paket Premium.",
   },
   {
     question: "Apa saja varian rasa bolu ketan?",
@@ -27,7 +27,7 @@ export const faqItems: FAQItem[] = [
   {
     question: "Berapa modal awal untuk franchise bolu ketan?",
     answer:
-      "Modal franchise mulai dari Rp2,9 juta (Paket Hemat) hingga Rp8,5 juta (Paket Premium). Semua paket sudah termasuk peralatan, bahan baku awal, dan branding.",
+      "Modal franchise mulai dari Rp3,5 juta (Paket Starter) hingga Rp8,5 juta (Paket Premium). Semua paket sudah termasuk peralatan, bahan baku awal, dan branding.",
   },
   {
     question: "Apakah bolu ketan keju lumer menggunakan bahan pengawet?",
@@ -37,7 +37,7 @@ export const faqItems: FAQItem[] = [
   {
     question: "Bagaimana cara memesan bolu ketan keju lumer?",
     answer:
-      "Anda bisa memesan langsung via WhatsApp di 0812-8725-0795. Tersedia layanan pesan antar untuk area tertentu.",
+      "Anda bisa memesan langsung via WhatsApp di 0858-9927-4443. Tersedia layanan pesan antar untuk area tertentu.",
   },
   {
     question: "Apakah bisa dikirim ke luar kota?",
