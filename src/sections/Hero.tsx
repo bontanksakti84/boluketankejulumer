@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Sparkles, BadgeDollarSign, Clock } from "lucide-react";
 import { WHATSAPP_URL } from "@/data/constants";
-import heroImage from "@/assets/hero-bolu.jpg";
+import heroImage from "@/assets/bolu-ketan.png";
 
 const badges = [
   { icon: BadgeDollarSign, text: "Harga mulai 5K" },
