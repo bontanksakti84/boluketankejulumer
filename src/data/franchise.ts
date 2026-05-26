@@ -8,7 +8,7 @@ export interface FranchisePackage {
 export const franchisePackages: FranchisePackage[] = [
   {
     name: "Paket Starter",
-    price: "Rp 3.500.000",
+    price: "CALL",
     features: [
       "Booth mini portable",
       "Peralatan dasar lengkap",
@@ -19,7 +19,7 @@ export const franchisePackages: FranchisePackage[] = [
   },
   {
     name: "Paket Business",
-    price: "Rp 7.500.000",
+    price: "CALL",
     highlight: true,
     features: [
       "Booth premium eye-catching",
@@ -32,7 +32,7 @@ export const franchisePackages: FranchisePackage[] = [
   },
   {
     name: "Paket Sultan",
-    price: "Rp 15.000.000",
+    price: "CALL",
     features: [
       "Booth eksklusif custom",
       "Full equipment set",
