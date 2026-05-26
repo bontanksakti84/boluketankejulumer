@@ -6,7 +6,7 @@ const items = [
   { icon: Leaf, title: "Bahan Pilihan", desc: "Hanya menggunakan bahan-bahan terbaik dan terjamin kualitasnya." },
   { icon: Clock, title: "Fresh Setiap Hari", desc: "Diproduksi fresh setiap hari untuk menjaga kelezatan optimal." },
   { icon: BadgeDollarSign, title: "Harga Terjangkau", desc: "Rasa premium dengan harga yang ramah di kantong mulai 5 ribu." },
-  { icon: TrendingUp, title: "Cocok untuk Usaha", desc: "Produk laris dengan margin tinggi, ideal untuk peluang franchise." },
+  { icon: TrendingUp, title: "Cocok untuk Usaha", desc: "Produk laris dengan margin tinggi, ideal untuk peluang kemitraan." },
 ];
 
 export default function AdvantagesSection() {

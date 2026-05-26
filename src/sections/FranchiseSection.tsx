@@ -6,9 +6,9 @@ export default function FranchiseSection() {
     <section id="waralaba" className="py-16 md:py-24 gradient-green-soft">
       <div className="container">
         <div className="text-center max-w-lg mx-auto mb-12">
-          <span className="text-xs font-bold tracking-widest uppercase text-primary">Waralaba</span>
+          <span className="text-xs font-bold tracking-widest uppercase text-primary">Kemitraan</span>
           <h2 className="mt-3 text-2xl md:text-4xl font-extrabold text-foreground">
-            Paket Franchise <span className="text-gradient">Terjangkau</span>
+            <span className="text-gradient">Paket Kemitraan Bolu Ketan Siap Jual</span>
           </h2>
           <p className="mt-3 text-muted-foreground text-sm md:text-base">
             Mulai usaha bolu ketan Anda dengan modal terjangkau dan support penuh dari tim kami.

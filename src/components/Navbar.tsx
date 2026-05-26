@@ -6,7 +6,7 @@ import { WHATSAPP_URL } from "@/data/constants";
 const navLinks = [
   { label: "Home", href: "#home" },
   { label: "Varian Rasa", href: "#produk" },
-  { label: "Paket Waralaba", href: "#waralaba" },
+  { label: "Paket Kemitraan", href: "#waralaba" },
   { label: "Tentang Kami", href: "#tentang" },
   { label: "Kontak", href: "#kontak" },
 ];

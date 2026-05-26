@@ -10,9 +10,9 @@ export const faqItems: FAQItem[] = [
       "Harga bolu ketan keju lumer mulai dari Rp5.000 per pcs. Tersedia 6 varian rasa: Original Keju, Coklat, Pandan, Ketan Hitam, Milo, dan Red Velvet.",
   },
   {
-    question: "Bagaimana cara daftar franchise Ichi Bread?",
+    question: "Bagaimana cara daftar kemitraan Ichi Bread?",
     answer:
-      "Hubungi kami via WhatsApp di 0858-9927-4443 atau email boluketankejulumer.official@gmail.com. Tersedia paket franchise mulai dari Paket Hemat, Paket Bisnis, hingga Paket Premium.",
+      "Hubungi kami via WhatsApp di 0858-9927-4443 atau email boluketankejulumer.official@gmail.com. Tersedia paket kemitraan mulai dari Paket Hemat, Paket Bisnis, hingga Paket Premium.",
   },
   {
     question: "Apa saja varian rasa bolu ketan?",
@@ -20,14 +20,14 @@ export const faqItems: FAQItem[] = [
       "Tersedia 6 varian rasa: Original Keju, Coklat Keju, Pandan Keju, Ketan Hitam Keju, Milo Keju, dan Red Velvet Keju. Semua dengan topping keju lumer premium.",
   },
   {
-    question: "Apakah franchise Ichi Bread cocok untuk pemula?",
+    question: "Apakah kemitraan Ichi Bread cocok untuk pemula?",
     answer:
       "Sangat cocok! Kami menyediakan pelatihan lengkap, SOP operasional, bahan baku berkualitas, serta pendampingan usaha sehingga pemula pun bisa langsung mulai berjualan.",
   },
   {
-    question: "Berapa modal awal untuk franchise bolu ketan?",
+    question: "Berapa modal awal untuk kemitraan bolu ketan?",
     answer:
-      "Modal franchise mulai dari Rp3,5 juta (Paket Starter) hingga Rp8,5 juta (Paket Premium). Semua paket sudah termasuk peralatan, bahan baku awal, dan branding.",
+      "Modal kemitraan mulai dari Rp3,5 juta (Paket Starter) hingga Rp8,5 juta (Paket Premium). Semua paket sudah termasuk peralatan, bahan baku awal, dan branding.",
   },
   {
     question: "Apakah bolu ketan keju lumer menggunakan bahan pengawet?",

@@ -35,7 +35,7 @@ export default function Hero() {
             transition={{ duration: 0.6, delay: 0.15 }}
             className="mt-5 text-base md:text-lg text-primary-foreground/85 max-w-xl mx-auto"
           >
-            BOLU KETAN KEJU LUMER by Ichi Bread hadir dengan rasa premium, harga terjangkau, dan peluang franchise menguntungkan.
+            BOLU KETAN KEJU LUMER by Ichi Bread hadir dengan rasa premium, harga terjangkau, dan peluang kemitraan menguntungkan.
           </motion.p>
 
           <motion.div
@@ -56,7 +56,7 @@ export default function Hero() {
               href="#waralaba"
               className="px-7 py-3.5 rounded-xl border-2 border-primary-foreground/30 text-primary-foreground font-semibold text-sm hover:bg-primary-foreground/10 transition-colors"
             >
-              Info Waralaba
+              Info Kemitraan
             </a>
           </motion.div>
 

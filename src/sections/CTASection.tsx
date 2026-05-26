@@ -16,7 +16,7 @@ export default function CTASection() {
             <span className="text-secondary">Hari Ini</span>
           </h2>
           <p className="mt-4 text-primary-foreground/80 text-sm md:text-base">
-            Hubungi kami sekarang untuk informasi lengkap paket franchise dan mulai raih keuntungan bersama Ichi Bread.
+            Hubungi kami sekarang untuk informasi lengkap paket kemitraan dan mulai raih keuntungan bersama Ichi Bread.
           </p>
           <div className="mt-8 flex flex-col sm:flex-row gap-3 justify-center">
             <a
@@ -25,13 +25,13 @@ export default function CTASection() {
               rel="noopener noreferrer"
               className="px-7 py-3.5 rounded-xl gradient-cheese text-secondary-foreground font-bold text-sm shadow-elevated hover:scale-105 transition-transform"
             >
-              💬 WhatsApp Franchise
+              💬 WhatsApp Kemitraan
             </a>
             <a
               href={EMAIL_URL}
               className="px-7 py-3.5 rounded-xl border-2 border-primary-foreground/30 text-primary-foreground font-semibold text-sm hover:bg-primary-foreground/10 transition-colors"
             >
-              ✉️ Email Franchise
+              ✉️ Email Kemitraan
             </a>
           </div>
         </motion.div>

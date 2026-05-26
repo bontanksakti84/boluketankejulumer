@@ -12,12 +12,12 @@ export const testimonials: Testimonial[] = [
   },
   {
     name: "Andi P.",
-    role: "Mitra Franchise Jakarta",
+    role: "Mitra  Jakarta",
     text: "Modal terjangkau, balik modal cepat. Cocok banget buat usaha sampingan. Sehari bisa jual 200 pcs!",
   },
   {
     name: "Maya D.",
-    role: "Mitra Franchise Bandung",
+    role: "Mitra  Bandung",
     text: "Branding-nya kuat, produk mudah dijual. Support dari tim Ichi Bread sangat membantu bisnis saya.",
   },
 ];
